@@ -8,7 +8,7 @@ http://www.stashgroup.net
 #stashcoin on freenode.
 
 StashCoin uses the SHA256 algorythm with Kimoto Gravity Well implementation. 
-As it is right now, StashCoin is largely based on stashcoin with some modifications.
+As it is right now, StashCoin is largely based on Bitcoin with some modifications.
 
 
 StashCoin was created to serve as a vehicle to the many applications the bitcoin technology will allow us to
